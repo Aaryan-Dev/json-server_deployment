@@ -1,37 +1,10 @@
 {
-    "books": [
+    "user": [
         {
             "id": 1,
-            "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-            "book_name": "Harry Potter and the Philosopher's Stone",
-            "author": "J. K. Rowling",
-            "genre": "fiction",
-            "edition": "2021",
-            "publisher": "Bloomsbury",
-            "cost": 1299,
-            "borrowed": false
-        },
-        {
-            "id": 2,
-            "image_url": "https://m.media-amazon.com/images/I/51Hfv2MfNGL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
-            "book_name": "Rich Dad Poor Dad",
-            "author": "Robert Kiyosaki and Sharon Lechter",
-            "genre": "finance",
-            "edition": "2017",
-            "publisher": "Bloomsbury",
-            "cost": 698,
-            "borrowed": false
-        },
-        {
-            "id": 3,
-            "image_url": "https://m.media-amazon.com/images/I/51JqbkK-iRL._SL500_.jpg",
-            "book_name": "A Game of Thrones",
-            "author": "George R. R. Martin",
-            "genre": "fiction, fantasy",
-            "edition": "2016",
-            "publisher": "Bloomsbury",
-            "cost": 5299,
-            "borrowed": false
+            "full_name": "Dev",
+            "email": "a@gmail.com",
+            "password": "12345"
         }
     ]
 }
